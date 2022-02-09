@@ -1,0 +1,20 @@
+[
+    {
+  "userId": 1,
+  "id": 1,
+  "title": "Hola, si esto funciona, es maravilloso",
+  "body": "Prueba 2"
+  },
+    {
+  "userId": 1,
+  "id": 2,
+  "title": "Mi amor",
+  "body": "Prueba 2"
+  },
+    {
+  "userId": 1,
+  "id": 3,
+  "title": "Mi vida",
+  "body": "Prueba 3"
+  }
+]
